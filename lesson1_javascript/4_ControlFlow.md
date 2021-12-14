@@ -1,3 +1,5 @@
+```javascript
+
 // Control Flow - Luồng thực thi 
 
 // 1, if else - nếu thì, nếu không
@@ -41,3 +43,5 @@ switch (student.class) {
         console.log('Học sinh không thuộc lớp A và B')
         break;
 }
+
+```

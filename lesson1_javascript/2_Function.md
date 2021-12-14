@@ -1,3 +1,5 @@
+```javascript
+
 // Function, Scope
 
 // 1, cấu trúc 1 function
@@ -20,3 +22,6 @@ const myFunction = () => {
 }
 
 console.log(bar) // Error - biến bar chỉ nằm trong phạm vi function myFunction
+
+
+```

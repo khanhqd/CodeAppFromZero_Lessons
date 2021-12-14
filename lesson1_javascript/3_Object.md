@@ -1,3 +1,5 @@
+```javascript
+
 // Object
 
 let info = {
@@ -43,3 +45,5 @@ arrayB[0] = {
     model: 'President',
 }
 console.log(arrayB);
+
+```

@@ -1,3 +1,5 @@
+```javascript
+
 // Data types - Kiểu dữ liệu
 
 // 1, Các kiểu dữ liệu thường dùng
@@ -51,3 +53,6 @@ let d = !true // false
 
 // 4, String operators - Toán tử cho string
 let strA = 'Xin chao' + ' ' + 'Khanh' // Xin chao Khanh
+
+
+```

@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, View } from 'react-native';
+import { useNavFunc } from '../navigation/useNavFunc';
 
 const CloneMe = () => {
     return (
