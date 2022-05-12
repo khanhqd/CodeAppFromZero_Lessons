@@ -1,17 +1,4 @@
-## 1, Khởi tạo project:
-
-```bash
-expo init my-app
-```
-
-- Xoá file App.js
-- Copy file trong folder template paste vào folder đã tạo
-
-```bash
-expo install react-native-screens react-native-safe-area-context
-yarn add @react-navigation/native @react-navigation/stack @react-navigation/native-stack
-```
-## 2, UI là gì? Cú pháp import và sử dụng các component để render ra UI
+## 1, UI là gì? Cú pháp import và sử dụng các component để render ra UI
 
 ```javascript
 import React from 'react';
@@ -39,13 +26,13 @@ const styles = StyleSheet.create({
 export default CloneMe;
 ```
 
-### 3, Basic Component:
+### 2, Basic Component:
 Là các component có sẵn từ thư viện 'react-native':
 View, Text, Image, Pressable, ...
 
 Docs component: https://reactnative.dev/docs/components-and-apis
 
-### 4, Basic styles:
+### 3, Basic styles:
 Các thuộc tính của StyleSheet để style cho component:
 - Docs view style: https://reactnative.dev/docs/view-style-props
 - Docs text style: https://reactnative.dev/docs/text-style-props
@@ -122,7 +109,7 @@ Các thuộc tính của StyleSheet để style cho component:
 }
 ```
 
-## 5, Flexbox:
+## 4, Flexbox:
 
 - Docs: https://reactnative.dev/docs/flexbox
 
